@@ -1,5 +1,3 @@
-# PLANOS-ARQUITECTONICOS
-DESARROLLO DE UNA LIBRERÍA EN PYTHON PARA LA DETECCIÓN DE LÍNEAS, ESQUINAS  E INTERSECCIONES EN PLANOS ARQUITECTÓNICOS 
 # Detección de Características en Planos Arquitectónicos
 Librería desarrollada para la materia de Visión Robótica.
 
