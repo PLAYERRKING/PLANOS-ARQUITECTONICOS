@@ -60,20 +60,20 @@ Contiene imágenes de prueba utilizadas para validar los algoritmos de visión.
 ### 1. Localización del Proyecto
 
 Ubícate en la carpeta donde se encuentra el archivo `setup.py`:
-
 ```bash
 cd "C:\ruta\de\tu\proyecto"
-
+```
 ### 2. Instalación del Paquete
 
 Ejecuta:
 
 ```bash
 pip install .
-
+```
 ### 3. Verificación de la Instalación
 
 Comprueba que se instaló correctamente:
 
 ```bash
 pip show vision_planos
+```
