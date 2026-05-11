@@ -18,7 +18,7 @@ Es el contenedor principal de todo el desarrollo. En este nivel se encuentran lo
 
 - **setup.py**  
   Archivo de configuración de setuptools. Contiene los metadatos del paquete, como:
-  - Nombre: `vision_planos`
+  - Nombre: `vision_tools`
   - Versión
   - Dependencias: `numpy`, `opencv-python`, `matplotlib`
 
@@ -75,5 +75,5 @@ pip install .
 Comprueba que se instaló correctamente:
 
 ```bash
-pip show vision_planos
+pip show vision_tools
 ```
